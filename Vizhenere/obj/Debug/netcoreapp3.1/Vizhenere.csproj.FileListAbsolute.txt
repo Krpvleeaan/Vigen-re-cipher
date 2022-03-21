@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Vizhenere\Vizhenere\obj\Debug\netcoreapp3.1\Vizhenere.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Vizhenere\Vizhenere\obj\Debug\netcoreapp3.1\Vizhenere.Form1.resources
+C:\Users\User\source\repos\Vizhenere\Vizhenere\obj\Debug\netcoreapp3.1\Vizhenere.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Vizhenere\Vizhenere\obj\Debug\netcoreapp3.1\Vizhenere.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Vizhenere\Vizhenere\obj\Debug\netcoreapp3.1\Vizhenere.AssemblyInfo.cs
+C:\Users\User\source\repos\Vizhenere\Vizhenere\obj\Debug\netcoreapp3.1\Vizhenere.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Vizhenere\Vizhenere\bin\Debug\netcoreapp3.1\Vizhenere.exe
+C:\Users\User\source\repos\Vizhenere\Vizhenere\bin\Debug\netcoreapp3.1\Vizhenere.deps.json
+C:\Users\User\source\repos\Vizhenere\Vizhenere\bin\Debug\netcoreapp3.1\Vizhenere.runtimeconfig.json
+C:\Users\User\source\repos\Vizhenere\Vizhenere\bin\Debug\netcoreapp3.1\Vizhenere.runtimeconfig.dev.json
+C:\Users\User\source\repos\Vizhenere\Vizhenere\bin\Debug\netcoreapp3.1\Vizhenere.dll
+C:\Users\User\source\repos\Vizhenere\Vizhenere\bin\Debug\netcoreapp3.1\Vizhenere.pdb
+C:\Users\User\source\repos\Vizhenere\Vizhenere\obj\Debug\netcoreapp3.1\Vizhenere.dll
+C:\Users\User\source\repos\Vizhenere\Vizhenere\obj\Debug\netcoreapp3.1\Vizhenere.pdb
+C:\Users\User\source\repos\Vizhenere\Vizhenere\obj\Debug\netcoreapp3.1\Vizhenere.genruntimeconfig.cache
